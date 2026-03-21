@@ -5,27 +5,16 @@ import ComboBox from './components/ComboBox'
 import TodoList from './components/TodoList'
 import SearchBar from './components/SearchBar'
 import inputData from '../data.json'
+import { fetchData } from './fetch.js'
 
 function App() {
   let [data, setData] = useState([])
   let [searchQuery, setSearchQuery] = useState("")
   let [statusFilter, setStatusFilter] = useState("All")
 
-  // let url = "https://69831cd79c3efeb892a4738c.mockapi.io/wwa/todo"
-
   useEffect(() => {
-    let fetchData = async () => {
-      try {
-        // let res = await fetch(url)
-        // let data = await res.json()
-        console.log(inputData)
-        setData(inputData)
-      } catch (error) {
-        console.log(error.message)
-      }
-    }
-    fetchData()
-  }, [])
+    setData(fetchData())
+  }, []);
 
   let handleChange = (filter) => {
     setStatusFilter(filter)
