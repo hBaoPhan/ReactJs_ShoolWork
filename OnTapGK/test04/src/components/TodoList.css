@@ -1,0 +1,13 @@
+.list {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 4px 0 black;
+    margin: 10px;
+    padding: 10px;
+    min-height: 300px;
+}
