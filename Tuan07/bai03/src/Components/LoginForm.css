@@ -7,16 +7,6 @@
     padding: 10px;
     margin: 10px;
     gap: 10px;
-}
-
-.bg-light{
-    background-color: black;
-    color: white;
-   
-
-}
-.bg-dark{
     background-color: white;
     color: black;
-   
 }

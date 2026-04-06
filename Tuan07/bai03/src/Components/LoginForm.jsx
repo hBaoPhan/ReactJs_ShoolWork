@@ -1,18 +1,17 @@
 import React from 'react'
-import ThemeAtom from '../ThemeAtom'
 import { useRecoilState } from 'recoil'
 import './Loginform.css'
+import { useNavigate } from 'react-router-dom'
+
 
 const LoginForm = () => {
+    let navigate=useNavigate()
 
-    let [theme, setTheme] = useRecoilState(ThemeAtom)
-    let className = `bg-${theme ? "light" : "dark"}`
     return (
-        <div className={className}>
+        <div className='bg'>
             <input type="text" placeholder='Username' />
             <input type="text" placeholder='Password' />
-            <button>Submit</button>
-            <button onClick={()=>{setTheme(!theme), localStorage.setItem("theme",theme)}} >Dark/Light</button>
+            <button onClick={navigate("/home")}>Submit</button>
         </div>
     )
 }
