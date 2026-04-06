@@ -7,7 +7,6 @@ const LoginForm = () => {
 
     let [theme, setTheme] = useRecoilState(ThemeAtom)
     let className = `bg-${theme ? "light" : "dark"}`
-    console.log(localStorage.getItem('theme'))
     return (
         <div className={className}>
             <input type="text" placeholder='Username' />
