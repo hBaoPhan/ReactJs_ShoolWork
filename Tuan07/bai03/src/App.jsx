@@ -4,18 +4,21 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 import LoginForm from './Components/LoginForm'
-import { Route, Routes,Link } from 'react-router-dom'
+import { Route, Routes, Link } from 'react-router-dom'
 import Home from './Components/Home'
+import About from './Components/About'
 
 function App() {
 
   return (
     <div>
-      <LoginForm></LoginForm>
+
 
       <Routes>
+        <Route path='/' element={<LoginForm></LoginForm>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
-        <Route path='/login' element={<LoginForm></LoginForm>}></Route>
+        <Route path='/about' element={<About></About>}></Route>
+
 
       </Routes>
 

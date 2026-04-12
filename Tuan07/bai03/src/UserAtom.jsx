@@ -1,8 +1,8 @@
-import {atom} from 'recoil'
+import { atom } from 'recoil'
 
-let user=atom({
-    key:'user',
-    default:{username:"HoaiBao",isLogin: false}
+let UserAtom = atom({
+    key: 'user',
+    default: { username: "", isLogin: false }
 })
 
-export default UserAtom
+export default UserAtom;
