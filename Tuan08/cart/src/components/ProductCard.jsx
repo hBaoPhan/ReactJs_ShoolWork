@@ -1,14 +1,22 @@
 import React from 'react'
 import './ProductCard.css'
 
-export const ProductCard = ({product, onClick, key}) => {
-  console.log(product)
+export const ProductCard = ({ product, onClick, showAddButton = true }) => {
   return (
-    <div className='card' key={key}>
-        <img className='productImage' src={product.img}/>
+    <div className='card'>
+        <img className='productImage' src={product.img} alt={product.name} />
         <h2>{product.name}</h2>
         <p>{product.price}</p>
-        <button className='btn btn-danger' onClick={(e)=>{onClick(e)}}>Add to cart</button>
+        {product.quantity ? <p>Quantity: {product.quantity}</p> : null}
+        {showAddButton ? (
+          <button
+            type='button'
+            className='btn btn-danger'
+            onClick={() => onClick(product)}
+          >
+            Add to cart
+          </button>
+        ) : null}
     </div>
     
   )
