@@ -1,0 +1,11 @@
+/* SocialButton.css */
+.social-btn {
+  background: #f3f4f6;
+  border: 1px solid #e5e7eb;
+  color: #222;
+}
+.social-btn:hover {
+  background: #fce7f3;
+  border-color: #f472b6;
+  color: #be185d;
+}

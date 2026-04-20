@@ -1,0 +1,31 @@
+/* LoginForm.css */
+.login-form-container {
+  position: relative;
+}
+.close-btn {
+  right: 2rem;
+  top: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #888;
+  transition: color 0.2s;
+}
+.close-btn:hover {
+  color: #f43f5e;
+}
+.google-btn {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  color: #ea4335;
+}
+.facebook-btn {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  color: #1877f3;
+}
+.apple-btn {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  color: #111;
+}

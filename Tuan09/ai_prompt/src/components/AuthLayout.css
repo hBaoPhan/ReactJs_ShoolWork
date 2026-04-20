@@ -1,0 +1,10 @@
+/* AuthLayout.css */
+.auth-layout {
+  min-height: 100vh;
+}
+.left-banner {
+  background: #e0f2f1;
+}
+.right-form {
+  box-shadow: 0 0 24px 0 rgba(0,0,0,0.07);
+}
