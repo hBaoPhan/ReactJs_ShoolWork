@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { use, useEffect, useState } from 'react'
 import axios from 'axios'
 import { useNavigate } from 'react-router-dom'
 import { UserAtom } from '../Atoms/UserAtom'
@@ -20,15 +20,14 @@ const LoginForm = () => {
         })
     }
 
-
+    console.log(user)
 
     let handleSubmit = async (e) => {
         e.preventDefault()
         let res = await axios.post("http://localhost:8080/api/auth/login", loginForm)
         console.log(res)
         localStorage.setItem("token", res.data.accessToken)
-        setUser(loginForm.username)
-        console.log(user)
+        setUser({ ...user, username: loginForm.username })
         navigate('/home')
 
     }
