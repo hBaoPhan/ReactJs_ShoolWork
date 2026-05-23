@@ -1,0 +1,120 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background: #2c3e50;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.navbar h1 {
+  font-size: 20px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin-left: 16px;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+
+.navbar a.active {
+  background: #3498db;
+}
+
+.navbar-menu {
+  display: flex;
+  align-items: center;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 16px;
+  font-size: 14px;
+}
+
+.logout-btn {
+  background: #e74c3c;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  margin-left: 8px;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.logout-btn:hover {
+  background: #c0392b;
+}
+
+.logout-btn:active {
+  transform: scale(0.95);
+}
+
+.stats-container {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.stats-card {
+  background-color: #2c3e50;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  margin: 10px;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  padding: 10px;
+  text-align: left;
+}
+
+td {
+  margin: 10px;
+  padding: 10px;
+}
+
+label,
+select {
+  display: block;
+  margin: 10px;
+  text-align: left;
+}
+
+.form {}
