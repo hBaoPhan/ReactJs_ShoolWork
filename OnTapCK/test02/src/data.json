@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Gaming",
+      "price": "20.000.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 2,
+      "name": "Chuột Không Dây",
+      "price": "500.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 3,
+      "name": "Bàn Phím Cơ",
+      "price": "1.200.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 4,
+      "name": "Tai Nghe",
+      "price": "800.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 5,
+      "name": "Màn Hình 24 inch",
+      "price": "3.500.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 6,
+      "name": "Bàn Di Chuột Gaming",
+      "price": "150.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 7,
+      "name": "Loa Máy Tính",
+      "price": "650.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 8,
+      "name": "Webcam Full HD",
+      "price": "900.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 9,
+      "name": "Ổ Cứng SSD 512GB",
+      "price": "1.500.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 10,
+      "name": "RAM 16GB DDR4",
+      "price": "1.100.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 11,
+      "name": "Tản Nhiệt Nước",
+      "price": "2.500.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 12,
+      "name": "Card Màn Hình RTX 4060",
+      "price": "8.500.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 13,
+      "name": "Vỏ Case PC",
+      "price": "950.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 14,
+      "name": "Nguồn Máy Tính 650W",
+      "price": "1.300.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 15,
+      "name": "Cáp HDMI 2.1",
+      "price": "120.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 16,
+      "name": "Hub USB Type C",
+      "price": "350.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 17,
+      "name": "Giá Đỡ Màn Hình (Arm)",
+      "price": "450.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 18,
+      "name": "Microphone Thu Âm",
+      "price": "1.400.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    },
+    {
+      "id": 19,
+      "name": "Ghế Gaming",
+      "price": "3.200.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "men"
+    },
+    {
+      "id": 20,
+      "name": "Bút Cảm Ứng",
+      "price": "750.000đ",
+      "img": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone_17_256gb-3_2.jpg?_gl=1*1dvnuat*_gcl_aw*R0NMLjE3Njg3ODY5ODUuRUFJYUlRb2JDaE1JMnR2TV9ieVdrZ01WTVBVOEFoM3g0dzF2RUFBWUFTQUFFZ0x3bl9EX0J3RQ..*_gcl_au*MjAyOTcxMjcxMy4xNzY4Nzg2OTg1*_ga*MTU5NTg2MDIyOC4xNzY4Nzg2OTg1*_ga_QLK8WFHNK9*czE3Njg3ODY5ODUkbzEkZzEkdDE3Njg3ODcwMTYkajI5JGwwJGg5NTcxODk2OTA.",
+      "category": "women"
+    }
+  ]
+}
