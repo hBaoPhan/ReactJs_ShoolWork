@@ -34,6 +34,7 @@ function App() {
             <button
               onClick={() => {
                 setUser(null);
+                localStorage.removeItem('user')
               }}
             >
               Đăng xuất

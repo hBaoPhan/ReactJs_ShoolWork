@@ -1,22 +1,24 @@
 import React, { useEffect, useState } from "react";
 import { useRecoilState } from "recoil";
-import { productsState } from "../store/atom";
+import { filterState, productsState, searchTerm } from "../store/atom";
 import { getProducts } from "../api/productAPI";
 import Product from "./Product";
-import { cartState } from '../store/atom'
+import { cartState } from "../store/atom";
 
-const ProductList = ({ filter, search }) => {
+const ProductList = () => {
   let [products, setProducts] = useRecoilState(productsState);
   let [loading, setLoading] = useState(true);
   let [cart, setCart] = useRecoilState(cartState);
+  let [search, setSearch] = useRecoilState(searchTerm);
+  let [filter, setFiler] = useRecoilState(filterState);
   let handleAddCart = (product) => {
     // cart.forEach((productInCart) => {
     //   if (productInCart.id != product.id) {
-        setCart([...cart, product])
-        console.log(cart);
+    setCart([...cart, product]);
+    console.log(cart);
     //   }
     // });
-  }
+  };
   useEffect(() => {
     console.log(cart);
   }, [cart]);
@@ -48,7 +50,13 @@ const ProductList = ({ filter, search }) => {
             <p>Không có dữ liệu phù hợp</p>
           ) : (
             displayedData.map((product) => {
-              return <Product onAdd={handleAddCart} key={product.id} product={product}></Product>;
+              return (
+                <Product
+                  onAdd={handleAddCart}
+                  key={product.id}
+                  product={product}
+                ></Product>
+              );
             })
           )}
         </div>

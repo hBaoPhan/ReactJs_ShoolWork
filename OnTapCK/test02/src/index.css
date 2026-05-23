@@ -50,3 +50,10 @@ input, label, select{
   border-radius: 10px;
   border-color: black;
 }
+.toast-container{
+  color: beige;
+  border-radius: 10px;
+  position: fixed ;
+  bottom: 20px;
+  right: 20px;
+}

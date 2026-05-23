@@ -18,6 +18,9 @@ const Login = () => {
         setUser(userObj)
         setSavedUser(userObj)
         navigate('/')
+        alert("Đăng nhập thành công")
+    }else{
+      alert("Đăng nhập thất bại do tài khoản không tồn tại/sai mật khẩu")
     }
   }
 

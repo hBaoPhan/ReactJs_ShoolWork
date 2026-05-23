@@ -40,7 +40,7 @@ const Home = () => {
         </div>
        
 
-        <ProductList filter={filter} search={search}></ProductList>
+        <ProductList ></ProductList>
       
     </div>
   )
